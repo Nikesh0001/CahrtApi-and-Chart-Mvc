@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshChart", "MeshChart.csproj", "{C9D1AB46-4601-4FCF-82DA-B3E91947CEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartLibrary", "..\ChartLibrary\ChartLibrary.csproj", "{2A6FBAD6-50EE-49FA-A545-EC846D6CF71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartMvc", "..\ChartMvc\ChartMvc.csproj", "{177C2CA6-5E35-4053-9041-A89A9356B720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D1AB46-4601-4FCF-82DA-B3E91947CEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D1AB46-4601-4FCF-82DA-B3E91947CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D1AB46-4601-4FCF-82DA-B3E91947CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D1AB46-4601-4FCF-82DA-B3E91947CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6FBAD6-50EE-49FA-A545-EC846D6CF71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6FBAD6-50EE-49FA-A545-EC846D6CF71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6FBAD6-50EE-49FA-A545-EC846D6CF71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6FBAD6-50EE-49FA-A545-EC846D6CF71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{177C2CA6-5E35-4053-9041-A89A9356B720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177C2CA6-5E35-4053-9041-A89A9356B720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177C2CA6-5E35-4053-9041-A89A9356B720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177C2CA6-5E35-4053-9041-A89A9356B720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7309F8-7DA6-41EE-8DAE-1BB255EE350E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,98 @@
+﻿body {
+    background: linear-gradient(white, white, lightblue);
+    background-size: cover;
+}
+
+.container {
+    padding-top: 100px;
+    
+}
+
+
+
+/* Define animation */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Apply animation to text elements and align to the left */
+.animate-text {
+    animation: fadeInUp 1s ease forwards; /* Apply animation to text */
+    text-align: left; /* Align text to the left */
+}
+
+
+
+/*#a {
+    padding-left:600px;
+    position:relative;
+}*/
+
+img {
+    /*padding-top: 20px;
+    max-width: 900px;
+    padding-left:700px;
+    padding-bottom:40px;
+    /* Set the maximum width of the image */
+    /*height: auto;*/ /* Maintain aspect ratio of the image */
+    /*position: absolute;*/ /* Position the image */
+    /*bottom: 10px;*/ /* Adjust the distance from the top */
+    /*right: 10px;*/ /* Adjust the distance from the right */
+    /*opacity:1;*/
+    /*margin:0px 0px 0px 700px;*/
+    /*padding-left: 700px;
+    padding-bottom: 40px;*/
+}
+
+
+.button-container {
+    position: absolute;
+    top: 50px; /* Adjust the distance from the top */
+    right: 100px; /* Adjust the distance from the right */
+    display: flex;
+    flex-direction: column; /* Align buttons in a column */
+}
+
+    .button-container button {
+        margin-bottom: 50px; /* Optional: Add some space between buttons */
+        background-color: blue; /* Set the button background color to blue */
+        color: white; /* Set text color to contrast with the background */
+        padding: 8px 16px; /* Adjust padding for better appearance */
+        border: none; /* Remove default button border */
+        cursor: pointer; /* Add pointer cursor on hover */
+        transition: all 0.3s ease; /* Smooth transition for hover effect */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add box shadow for 3D effect */
+    }
+
+        /* Button hover effect */
+        .button-container button:hover {
+            background-color: lightblue; /* Change background color on hover */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Adjust shadow on hover */
+            transform: translateY(-2px); /* Add a slight lift on hover */
+        }
+
+/* Display buttons side by side */
+.button-container {
+    flex-direction: row; /* Align buttons in a row */
+    align-items: flex-start; /* Align buttons at the top */
+}
+
+    .button-container button {
+        margin-right: 10px; /* Optional: Add some space between buttons */
+    }
+
+   .con
+   {
+       display:flex;
+   } 
+
+
+
