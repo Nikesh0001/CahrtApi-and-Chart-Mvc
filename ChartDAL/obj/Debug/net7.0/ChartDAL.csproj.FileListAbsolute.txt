@@ -1,0 +1,14 @@
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\bin\Debug\net7.0\ChartDAL.deps.json
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\bin\Debug\net7.0\ChartDAL.runtimeconfig.json
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\bin\Debug\net7.0\ChartDAL.dll
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\bin\Debug\net7.0\ChartDAL.pdb
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.csproj.AssemblyReference.cache
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.AssemblyInfoInputs.cache
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.AssemblyInfo.cs
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.csproj.CoreCompileInputs.cache
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.dll
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\refint\ChartDAL.dll
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.pdb
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ChartDAL.genruntimeconfig.cache
+C:\Users\6145206\source\repos\chartttt\CahrtApi-and-Chart-Mvc\ChartDAL\obj\Debug\net7.0\ref\ChartDAL.dll

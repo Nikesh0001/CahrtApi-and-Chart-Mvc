@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartApi", "ChartApi.csproj", "{28D1511E-D2D1-4C83-A398-74EDF96904B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartDAL", "..\ChartDAL\ChartDAL.csproj", "{7F4286B5-CBA1-44C5-9815-EDA3EEEDB2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartMVC", "..\ChartMVC\ChartMVC.csproj", "{2108549C-5A07-45BE-8A80-1C8BD2AD7E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D1511E-D2D1-4C83-A398-74EDF96904B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D1511E-D2D1-4C83-A398-74EDF96904B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D1511E-D2D1-4C83-A398-74EDF96904B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D1511E-D2D1-4C83-A398-74EDF96904B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4286B5-CBA1-44C5-9815-EDA3EEEDB2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4286B5-CBA1-44C5-9815-EDA3EEEDB2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4286B5-CBA1-44C5-9815-EDA3EEEDB2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4286B5-CBA1-44C5-9815-EDA3EEEDB2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2108549C-5A07-45BE-8A80-1C8BD2AD7E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2108549C-5A07-45BE-8A80-1C8BD2AD7E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2108549C-5A07-45BE-8A80-1C8BD2AD7E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2108549C-5A07-45BE-8A80-1C8BD2AD7E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D94F241-0B5A-4BCD-8C15-EADF0B4BB7AC}
+	EndGlobalSection
+EndGlobal
